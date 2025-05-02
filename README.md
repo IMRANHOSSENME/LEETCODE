@@ -27,5 +27,5 @@ This repository contains my solutions to various problems from [LeetCode](https:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/leetcode-solutions.git
-   cd leetcode-solutions
+   git clone [https://github.com/yourusername/leetcode-solutions.git](https://github.com/IMRANHOSSENME/LEETCODE.git)
+   cd LEETCODE
