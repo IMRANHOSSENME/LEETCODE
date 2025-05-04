@@ -9,6 +9,7 @@ This repository contains my solutions to various problems from [LeetCode](https:
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](./Two%20Sum/TwoSum.py) / [C++](./Two%20Sum/TwoSum.cpp) / [Java](./Two%20Sum/TwoSum.java) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [Python](./Add%20Two%20Numbers/add_two_numbers.py) |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [C++](./Longest%20Palindromic%20Substring/LongestPalindromicSubstring.cpp) |
+| 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | [C++](./Zigzag%20Conversion/ZigzagConversion.cpp) /[Python](./Zigzag%20Conversion/ZigzagConversion.py) /[Java](./Zigzag%20Conversion/ZigzagConversion.java)|
 
 
 > This table will grow as I add more solutions.
