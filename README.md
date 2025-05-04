@@ -6,9 +6,10 @@ This repository contains my solutions to various problems from [LeetCode](https:
 
 | # | Title | Difficulty | Solution |
 |---|-------|------------|----------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](./Two%20Sum/TwoSum.py)[c++]/(./Two%20Sum/TwoSum.cpp)[java]/(./Two%20Sum/TwoSum.java) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](./Two%20Sum/TwoSum.py) / [C++](./Two%20Sum/TwoSum.cpp) / [Java](./Two%20Sum/TwoSum.java) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [Python](./Add%20Two%20Numbers/add_two_numbers.py) |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [C++](./Longest%20Palindromic%20Substring/LongestPalindromicSubstring.cpp) |
+
 
 > This table will grow as I add more solutions.
 
